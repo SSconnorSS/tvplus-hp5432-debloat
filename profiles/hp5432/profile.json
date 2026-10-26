@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "status": "experimental",
+  "tested": {
+    "date": "2026-10-26",
+    "units": 1,
+    "manufacturer": "SkyworthDigital",
+    "model": "HP5432",
+    "device": "HP4CD-TVplus",
+    "android_release": "14",
+    "sdk": "34",
+    "build_fingerprint": "TVplus/HP5432-TVplus/HP4CD-TVplus:14/UKG3.250826.001/P01.02.079_20260612:user/release-keys",
+    "build_display_id": "UKG3.250826.001.P01.02.079_20260612"
+  },
+  "packages": [
+    {
+      "name": "com.google.android.feedback",
+      "group": "google_optional",
+      "reason_tr": "Google geri bildirim bileşeni; geri bildirim işlevi kaybolabilir. Tüm Google ölçümünü kapattığı anlamına gelmez.",
+      "original_enabled_setting": 0,
+      "tested_enabled_setting": 3,
+      "default_selected": false
+    },
+    {
+      "name": "com.android.ondevicepersonalization.services",
+      "group": "google_optional",
+      "reason_tr": "İsteğe bağlı cihaz içi kişiselleştirme bileşeni; ilgili özellikler çalışmayabilir. APEX modülü kaldırılmadı.",
+      "original_enabled_setting": 0,
+      "tested_enabled_setting": 3,
+      "default_selected": false
+    },
+    {
+      "name": "com.android.federatedcompute.services",
+      "group": "google_optional",
+      "reason_tr": "İsteğe bağlı dağıtık hesaplama bileşeni; buna bağlı özellikler çalışmayabilir. APEX modülü kaldırılmadı.",
+      "original_enabled_setting": 0,
+      "tested_enabled_setting": 3,
+      "default_selected": false
+    },
+    {
+      "name": "com.sdt.android.tr369",
+      "group": "provider_optional",
+      "reason_tr": "Sağlayıcı uzaktan yönetim ajanı. Uzaktan destek ve yönetim işlevlerini etkileyebilir; cihaz/kampanya sözleşmesi ayrıca incelenmeli.",
+      "original_enabled_setting": 0,
+      "tested_enabled_setting": 3,
+      "default_selected": false
+    },
+    {
+      "name": "com.skyworth.android.tr069",
+      "group": "provider_optional",
+      "reason_tr": "Sağlayıcı yapılandırma/yönetim ajanı. Yeniden başlatma ve gerçek yayın kontrolü gerekir; gelecekteki provizyon ve destek davranışı doğrulanmadı.",
+      "original_enabled_setting": 0,
+      "tested_enabled_setting": 3,
+      "default_selected": false
+    },
+    {
+      "name": "com.sdt.customization",
+      "group": "provider_optional",
+      "reason_tr": "Sağlayıcı/partner özelleştirmesi. Marka/öneri satırları ve partner yapılandırması etkilenebilir; bu paket tek başına izleme kanıtı değildir.",
+      "original_enabled_setting": 0,
+      "tested_enabled_setting": 3,
+      "default_selected": false
+    }
+  ]
+}
