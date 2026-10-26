@@ -4,7 +4,9 @@ TV+ HP5432 için, tek cihazda denenmiş debloat notları, CleanYourTV Glass yap�
 
 **Durum: deneysel · v0.1.0 · 26 Ekim 2026 · bir cihazda aynı gün test edildi.** Uzun süreli kullanım ve farklı yazılım sürümleri henüz doğrulanmadı. Turkcell, Superonline, TV+, Google veya CleanYourTV ile resmî bağlantısı bulunmayan bağımsız bir çalışmadır.
 
-![HP5432 üzerinde Glass ana ekranı](assets/home-preview.png)
+![Netflix, YouTube, Disney+ ve HBO Max ile Glass tema örneği](assets/home-preview.jpg)
+
+*Görsel: CleanYourTV kaynak projesinden Glass tema önizlemesi.*
 
 ## Neler içeriyor?
 

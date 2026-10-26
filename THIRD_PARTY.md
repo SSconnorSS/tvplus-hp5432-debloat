@@ -28,4 +28,4 @@ Bu uygulama/hizmetlerin kendileri dağıtılmaz; kendi lisansları, hizmet koşu
 
 ## Görsel
 
-`assets/home-preview.png`, test kurulumunun ana ekran görüntüsüdür; hesap, ağ adresi veya cihaz kimliği içermez. Görünen uygulama adları ve işaretleri ilgili sahiplerine aittir; görsel kurulum sonucunu açıklamak içindir. Proje bu kuruluşların onayını veya ortaklığını iddia etmez.
+`assets/home-preview.jpg`, CleanYourTV'nin yukarıda belirtilen kaynak sürümündeki `themes/glass/screenshot.jpg` dosyasının değiştirilmemiş kopyasıdır. Glass temasını örneklemek için kullanılır; aynı MIT telif/izin bildirimi korunur. Görünen uygulama adları ve işaretleri ilgili sahiplerine aittir. Proje bu kuruluşların onayını veya ortaklığını iddia etmez.
